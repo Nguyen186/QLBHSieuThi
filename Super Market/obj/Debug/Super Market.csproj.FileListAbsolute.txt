@@ -1,0 +1,75 @@
+F:\GitHub\Quản lý siêu thị\Super Market_Update24h.info\Super Market\Super Market\bin\Debug\Super Market.exe.config
+F:\GitHub\Quản lý siêu thị\Super Market\Super Market\Super Market\bin\Debug\Super Market.exe.config
+C:\Users\NTB\Documents\GitHub\QuanLySieuThi\Super Market\Super Market\Super Market\bin\Debug\Super Market.exe.config
+C:\Users\Khong Minh\Documents\GitHub\QuanLySieuThi\Super Market\Super Market\Super Market\bin\Debug\Super Market.exe.config
+C:\Users\Duong Hung\Documents\GitHub\QuanLySieuThi\Super Market\Super Market\Super Market\bin\Debug\Super Market.exe.config
+C:\Users\HOANGHAI\Documents\GitHub\QuanLySieuThi\Super Market\Super Market\Super Market\bin\Debug\Super Market.exe.config
+C:\Users\HOANGHAI\Documents\GitHub\QuanLySieuThi\Super Market\Super Market\Super Market\obj\Debug\Super Market.csprojResolveAssemblyReference.cache
+C:\Users\HOANGHAI\Documents\GitHub\QuanLySieuThi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmDangNhap.resources
+C:\Users\HOANGHAI\Documents\GitHub\QuanLySieuThi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmDanhMucNhaCungCap.resources
+C:\Users\HOANGHAI\Documents\GitHub\QuanLySieuThi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmDanhSachHoaDonBH.resources
+C:\Users\HOANGHAI\Documents\GitHub\QuanLySieuThi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmLapHoaDonBanHang.resources
+C:\Users\HOANGHAI\Documents\GitHub\QuanLySieuThi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmMain.resources
+C:\Users\HOANGHAI\Documents\GitHub\QuanLySieuThi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmQuanLyChungLoaiHang.resources
+C:\Users\HOANGHAI\Documents\GitHub\QuanLySieuThi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmQuanLyHangHoa.resources
+C:\Users\HOANGHAI\Documents\GitHub\QuanLySieuThi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmQuanLyLoaiHang.resources
+C:\Users\HOANGHAI\Documents\GitHub\QuanLySieuThi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmQuanLyNhanVien.resources
+C:\Users\HOANGHAI\Documents\GitHub\QuanLySieuThi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmThemMatHang.resources
+C:\Users\HOANGHAI\Documents\GitHub\QuanLySieuThi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmThemNhaCC.resources
+C:\Users\HOANGHAI\Documents\GitHub\QuanLySieuThi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmThemNhanVien.resources
+C:\Users\HOANGHAI\Documents\GitHub\QuanLySieuThi\Super Market\Super Market\Super Market\obj\Debug\Super_Market.Properties.Resources.resources
+C:\Users\HOANGHAI\Documents\GitHub\QuanLySieuThi\Super Market\Super Market\Super Market\obj\Debug\Super Market.csproj.GenerateResource.Cache
+C:\Users\HOANGHAI\Documents\GitHub\QuanLySieuThi\Super Market\Super Market\Super Market\bin\Debug\Super Market.exe
+C:\Users\HOANGHAI\Documents\GitHub\QuanLySieuThi\Super Market\Super Market\Super Market\bin\Debug\Super Market.pdb
+C:\Users\HOANGHAI\Documents\GitHub\QuanLySieuThi\Super Market\Super Market\Super Market\bin\Debug\System.Web.Services.dll
+C:\Users\HOANGHAI\Documents\GitHub\QuanLySieuThi\Super Market\Super Market\Super Market\bin\Debug\Microsoft.Data.ConnectionUI.xml
+C:\Users\HOANGHAI\Documents\GitHub\QuanLySieuThi\Super Market\Super Market\Super Market\obj\Debug\Super Market.exe
+C:\Users\HOANGHAI\Documents\GitHub\QuanLySieuThi\Super Market\Super Market\Super Market\obj\Debug\Super Market.pdb
+C:\Users\Admin\Downloads\QuanLySieuThi-master\Super Market\Super Market\Super Market\bin\Debug\Super Market.exe.config
+C:\Users\Admin\Downloads\QuanLySieuThi-master\Super Market\Super Market\Super Market\bin\Debug\Super Market.exe
+C:\Users\Admin\Downloads\QuanLySieuThi-master\Super Market\Super Market\Super Market\bin\Debug\Super Market.pdb
+C:\Users\Admin\Downloads\QuanLySieuThi-master\Super Market\Super Market\Super Market\bin\Debug\System.Web.Services.dll
+C:\Users\Admin\Downloads\QuanLySieuThi-master\Super Market\Super Market\Super Market\bin\Debug\Microsoft.Data.ConnectionUI.xml
+C:\Users\Admin\Downloads\QuanLySieuThi-master\Super Market\Super Market\Super Market\obj\Debug\Super Market.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\QuanLySieuThi-master\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmDangNhap.resources
+C:\Users\Admin\Downloads\QuanLySieuThi-master\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmDanhMucNhaCungCap.resources
+C:\Users\Admin\Downloads\QuanLySieuThi-master\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmDanhSachHoaDonBH.resources
+C:\Users\Admin\Downloads\QuanLySieuThi-master\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmLapHoaDonBanHang.resources
+C:\Users\Admin\Downloads\QuanLySieuThi-master\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmMain.resources
+C:\Users\Admin\Downloads\QuanLySieuThi-master\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmQuanLyChungLoaiHang.resources
+C:\Users\Admin\Downloads\QuanLySieuThi-master\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmQuanLyHangHoa.resources
+C:\Users\Admin\Downloads\QuanLySieuThi-master\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmQuanLyLoaiHang.resources
+C:\Users\Admin\Downloads\QuanLySieuThi-master\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmQuanLyNhanVien.resources
+C:\Users\Admin\Downloads\QuanLySieuThi-master\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmThemMatHang.resources
+C:\Users\Admin\Downloads\QuanLySieuThi-master\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmThemNhaCC.resources
+C:\Users\Admin\Downloads\QuanLySieuThi-master\Super Market\Super Market\Super Market\obj\Debug\Super_Market.frmThemNhanVien.resources
+C:\Users\Admin\Downloads\QuanLySieuThi-master\Super Market\Super Market\Super Market\obj\Debug\Super_Market.Properties.Resources.resources
+C:\Users\Admin\Downloads\QuanLySieuThi-master\Super Market\Super Market\Super Market\obj\Debug\Super Market.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\QuanLySieuThi-master\Super Market\Super Market\Super Market\obj\Debug\Super Market.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QuanLySieuThi-master\Super Market\Super Market\Super Market\obj\Debug\Super Market.csproj.CopyComplete
+C:\Users\Admin\Downloads\QuanLySieuThi-master\Super Market\Super Market\Super Market\obj\Debug\Super Market.exe
+C:\Users\Admin\Downloads\QuanLySieuThi-master\Super Market\Super Market\Super Market\obj\Debug\Super Market.pdb
+C:\Users\Admin\Desktop\QLBHST\Super Market\bin\Debug\Super Market.exe.config
+C:\Users\Admin\Desktop\QLBHST\Super Market\bin\Debug\Super Market.exe
+C:\Users\Admin\Desktop\QLBHST\Super Market\bin\Debug\Super Market.pdb
+C:\Users\Admin\Desktop\QLBHST\Super Market\bin\Debug\System.Web.Services.dll
+C:\Users\Admin\Desktop\QLBHST\Super Market\bin\Debug\Microsoft.Data.ConnectionUI.xml
+C:\Users\Admin\Desktop\QLBHST\Super Market\obj\Debug\Super Market.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\QLBHST\Super Market\obj\Debug\Super_Market.frmDangNhap.resources
+C:\Users\Admin\Desktop\QLBHST\Super Market\obj\Debug\Super_Market.frmDanhMucNhaCungCap.resources
+C:\Users\Admin\Desktop\QLBHST\Super Market\obj\Debug\Super_Market.frmDanhSachHoaDonBH.resources
+C:\Users\Admin\Desktop\QLBHST\Super Market\obj\Debug\Super_Market.frmLapHoaDonBanHang.resources
+C:\Users\Admin\Desktop\QLBHST\Super Market\obj\Debug\Super_Market.frmMain.resources
+C:\Users\Admin\Desktop\QLBHST\Super Market\obj\Debug\Super_Market.frmQuanLyChungLoaiHang.resources
+C:\Users\Admin\Desktop\QLBHST\Super Market\obj\Debug\Super_Market.frmQuanLyHangHoa.resources
+C:\Users\Admin\Desktop\QLBHST\Super Market\obj\Debug\Super_Market.frmQuanLyLoaiHang.resources
+C:\Users\Admin\Desktop\QLBHST\Super Market\obj\Debug\Super_Market.frmQuanLyNhanVien.resources
+C:\Users\Admin\Desktop\QLBHST\Super Market\obj\Debug\Super_Market.frmThemMatHang.resources
+C:\Users\Admin\Desktop\QLBHST\Super Market\obj\Debug\Super_Market.frmThemNhaCC.resources
+C:\Users\Admin\Desktop\QLBHST\Super Market\obj\Debug\Super_Market.frmThemNhanVien.resources
+C:\Users\Admin\Desktop\QLBHST\Super Market\obj\Debug\Super_Market.Properties.Resources.resources
+C:\Users\Admin\Desktop\QLBHST\Super Market\obj\Debug\Super Market.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QLBHST\Super Market\obj\Debug\Super Market.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QLBHST\Super Market\obj\Debug\Super Market.csproj.CopyComplete
+C:\Users\Admin\Desktop\QLBHST\Super Market\obj\Debug\Super Market.exe
+C:\Users\Admin\Desktop\QLBHST\Super Market\obj\Debug\Super Market.pdb
